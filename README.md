@@ -1,6 +1,6 @@
-# myapp
+# App Layout- Raiany
 
-A new Flutter project.
+Atividade relacionada ao programa Talento Tech- Módulo 2 do curso de desenvolvimento WEB.
 
 ## Getting Started
 
